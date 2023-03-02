@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573281950672",
+    "project_id": "chat-gpt--mobile-application",
+    "storage_bucket": "chat-gpt--mobile-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573281950672:android:73daf234907eed2c7db7d5",
+        "android_client_info": {
+          "package_name": "com.markusw.chatgptapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573281950672-j1bvsf44s6ef3074f7dtsq5eosnrncqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.markusw.chatgptapp",
+            "certificate_hash": "746130578081521f84a4ab453c36255c3328864c"
+          }
+        },
+        {
+          "client_id": "573281950672-2jpvedn2qut25cadbe7bqd8di08fsks5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ86SwgFXspzzTknQQMgQxtBHop9YVPQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573281950672-2jpvedn2qut25cadbe7bqd8di08fsks5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
